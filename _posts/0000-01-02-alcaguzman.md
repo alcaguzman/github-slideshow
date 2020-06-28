@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Primeros **bold** cambios realizados. *italic* Exitos!!!"
 Use the left arrow to go back!
